@@ -28,7 +28,7 @@ done = False
 
 print(" ")
 print("\033[1;30;46m   B.I.T.C.H. : BINARY INVESTMENT TECHNICALLY CALIBERATED HELPER   ")
-print("\033[0;37;0m      v1.01 Alpha    |     2020     |      Cantaloupe.Sauce")
+print("\033[0;37;0m           v1.01 Alpha    |     2020     |      navintc")
 print("")
 
 
